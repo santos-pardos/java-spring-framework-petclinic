@@ -1,3 +1,7 @@
+# Links
+https://learn.microsoft.com/en-us/azure/container-apps/java-deploy-war-file
+
+
 # Spring PetClinic Sample Application
 
 [![Java CI with Maven](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml)
