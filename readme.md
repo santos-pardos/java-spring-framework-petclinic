@@ -7,6 +7,12 @@ mvn clean package -DskipTests
 cd spring-framework-petclinic/target
 touch Dockerfile
 ```
+```
+docker build -t petclinic .
+docker run -d -p 8080:8080 petclinic
+http://public-ip:8080/petclinic/
+```
+
 
 # Spring PetClinic Sample Application
 
