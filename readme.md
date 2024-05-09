@@ -1,4 +1,4 @@
-# Links
+# Method 1
 https://learn.microsoft.com/en-us/azure/container-apps/java-deploy-war-file
 ```
 git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
@@ -13,7 +13,7 @@ docker run -d -p 8080:8080 petclinic
 http://public-ip:8080/petclinic/
 ```
 
-
+# Method 2
 # Spring PetClinic Sample Application
 
 [![Java CI with Maven](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml)
