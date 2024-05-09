@@ -1,6 +1,12 @@
 # Links
 https://learn.microsoft.com/en-us/azure/container-apps/java-deploy-war-file
-
+```
+git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
+cd spring-framework-petclinic
+mvn clean package -DskipTests
+cd spring-framework-petclinic/target
+touch Dockerfile
+```
 
 # Spring PetClinic Sample Application
 
